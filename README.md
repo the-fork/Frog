@@ -6,5 +6,3 @@ foo
 bar
 
 baz
-
-quux
